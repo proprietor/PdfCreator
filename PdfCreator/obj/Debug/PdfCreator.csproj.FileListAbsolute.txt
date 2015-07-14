@@ -1,0 +1,7 @@
+E:\Training\PdfCreator\PdfCreator\bin\Debug\PdfCreator.exe.config
+E:\Training\PdfCreator\PdfCreator\bin\Debug\PdfCreator.exe
+E:\Training\PdfCreator\PdfCreator\bin\Debug\PdfCreator.pdb
+E:\Training\PdfCreator\PdfCreator\bin\Debug\itextsharp.dll
+E:\Training\PdfCreator\PdfCreator\obj\Debug\PdfCreator.csprojResolveAssemblyReference.cache
+E:\Training\PdfCreator\PdfCreator\obj\Debug\PdfCreator.exe
+E:\Training\PdfCreator\PdfCreator\obj\Debug\PdfCreator.pdb

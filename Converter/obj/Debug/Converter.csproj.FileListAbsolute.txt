@@ -1,0 +1,5 @@
+E:\Training\PdfCreator\Converter\bin\Debug\Converter.dll
+E:\Training\PdfCreator\Converter\bin\Debug\Converter.pdb
+E:\Training\PdfCreator\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+E:\Training\PdfCreator\Converter\obj\Debug\Converter.dll
+E:\Training\PdfCreator\Converter\obj\Debug\Converter.pdb
